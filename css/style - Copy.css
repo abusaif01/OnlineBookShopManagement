@@ -1,0 +1,15 @@
+body,div,span,input,select,a,ul,li{font-family:  Verdana;}
+body{background:url('../images/box-spec.jpg') no-repeat;margin:0px;padding:0px}
+#divcontainer{margin-top:10px;width:100%;text-align:center;margin:auto;}
+#divheader{width:100%}
+#divmenu{width:100%; text-align:left}
+#divcontent{ width:80%;padding-top:20px; margin:auto;height:670px}
+#divfooter{width:100%;height:300px;margin-top:30px}
+.menuleft{float:left;line-height:42px;margin-left:150px;border-right:1px solid #C93}
+.menuright{float:left;line-height:42px;border-left:1px solid #EEE}
+.menubtn{text-decoration:none;color:#000;cursor:pointer;float:left;line-height:42px;font-size:20px;font-weight:400;padding:0px 20px 0px 20px;border-left:1px solid #EEE;border-right:1px solid #C93}
+.menubtn:hover{color:#EEE;background-image:url('../images/bg_menu.gif');}
+
+.submenu{width:150px;background-color:#EEE;opacity:0.8;cursor:pointer;padding:5px 5px;border:1px solid #C93}
+.submenubtn{border-bottom:1px solid #FFF;color:#000;text-decoration:none;padding:5px}
+.submenubtn:hover{color:#FFF;background-color:#BDDAFF}

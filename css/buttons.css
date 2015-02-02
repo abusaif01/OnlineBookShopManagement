@@ -1,0 +1,7 @@
+/* CSS Document */
+input.BtnBlue {width:148px;height:31px;outline: none;font-size:13px;color:#fff;background-image: url(../images/buttons/1.png);border:none;font-family: Arial, Helvetica, sans-serif; cursor:pointer}
+input.BtnLightBlue {width:148px;height:31px;outline: none;font-size:13px;color:#454545;background-image: url(../images/buttons/3.png);border:none;font-family: Arial, Helvetica, sans-serif; cursor:pointer}
+input.BtnPrintPDF{width:148px;height:31px;outline: none;font-size:13px;color:#fff;background-image: url(../images/buttons/printpdf.png);border:none;font-family: Arial, Helvetica, sans-serif; cursor:pointer}
+input.BtnRed {width:148px;height:31px;outline: none;font-size:13px;color:#fff;background-image: url(../images/buttons/2.png);border:none;font-family: Arial, Helvetica, sans-serif; cursor:pointer}
+input.BtnDisble {width:148px;height:31px;outline: none;font-size:13px;color:#fff;background-image: url(../images/buttons/4.png);border:none;font-family: Arial, Helvetica, sans-serif; color:#909090; font-weight:bold}
+input.BtnAddQ{background:#1768FF; width:25px; height:25px; padding:1px; font-weight:bolder;  color:#fff; outline:none}

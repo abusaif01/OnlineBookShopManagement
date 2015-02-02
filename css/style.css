@@ -1,0 +1,24 @@
+body,div,span,input,select,a,ul,li{font-family:  Verdana;}
+body{background:url('../images/box-spec.jpg') no-repeat;margin:0px;padding:0px}
+#divcontainer{margin-top:10px;width:100%;text-align:center;margin:auto;}
+#divheader{width:100%}
+#divmenu{width:100%; text-align:left}
+#divcontent{ width:80%;padding-top:20px; margin:auto;height:520px;}
+#divfooter{width:100%;margin-top:70px;margin-bottom:15px}
+.menuleft{float:left;line-height:42px;margin-left:3px;border-right:1px solid #C93;}
+.menuright{float:left;line-height:42px;border-left:1px solid #EEE}
+.menubtn{text-shadow:1px 1px 1px #FFA;text-decoration:none;color:#6F422B;cursor:pointer;float:left;line-height:42px;font-size:16px;font-weight:400;padding:0px 20px 0px 20px;border-left:1px solid #EEE;border-right:1px solid #C93}
+.menubtn:hover{text-shadow:1px 1px 1px #333;color:#EEE;background-image:url('../images/bg_menu.gif');}
+
+.submenu{background-color:#EEE;opacity:0.95;z-index:9999;width:100%;cursor:pointer;padding:5px 5px;border:1px solid #C93}
+.submenubtn{border-bottom:1px solid #FFF;color:#000;text-decoration:none;padding:5px;font-size:14px}
+.submenubtn:hover{color:#FFF;background-color:#BDDAFF}
+
+.footermenubtn{color:#6F422B;font-size:18px;text-decoration:none;padding-bottom:3px;margin-right:30px;text-shadow:1px 1px 1px #FFA}
+.footermenubtn:hover{color:#FFF;text-shadow:1px 1px 1px #333}
+
+.divbuttongo{text-align:center;margin:auto;background-image:url('../images/bg_button1.gif');width:103px;height:45px;color:#794729;font-weight:700;font-size:16px}
+.divbuttongo:hover{color:#EEE}
+
+.loginbtn{color:#A8A8A8;font-weight:700;margin-right:20px}
+.loginbtn:hover{color:#FFF}

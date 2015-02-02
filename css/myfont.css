@@ -1,0 +1,27 @@
+/* CSS Document */
+
+.Grey25{ font-size:25px; color:#454545}
+.Grey18{ font-size:18px; color:#454545}
+.Grey20{ font-size:20px; color:#454545}
+.Grey12{font-size:12px; color:#454545}
+.Grey10{font-size:10px; color:#454545}
+.Grey15{font-size:15px; color:#454545}
+.Green12{font-size:12px; color:#060}
+.LoginField{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#454545; width:280px; height:20px; vertical-align:middle; border:1px solid #D3D3D3; padding:3px 5px}
+.BlueLink{font-size:12px; color:#1266FF; text-decoration:underline}
+.BlueLink:visit{color:#1266FF}
+.BlueLink10{font-size:10px; color:#1266FF; text-decoration:underline}
+
+.White12{font-size:12px; color:#fff}
+.White15{font-size:15px; color:#fff}
+.White15Link{font-size:15px; color:#fff; text-decoration:none}
+.White15Link:hover{ text-decoration:underline}
+.White20{font-size:20px; color:#fff}
+.Red12{font-size:12px; color:#900}
+.Red10{font-size:10px; color:#900}
+.ErrorBox10{font-size:10px; color:#454545; border:1px solid #900; background:#FFBFBF}
+h1{font-size:20px; color:#fff}
+
+.vehtab{width:125px; height:35px; background:#E4E4E4; color:#fff; cursor:pointer; border-right:1px solid #ccc; border-bottom:1px solid #E4E4E4}
+.vehtab_off{width:125px; height:35px; background:#9BC4FF; color:#fff; cursor:pointer; border-right:1px solid #ccc; border-bottom:1px solid #E4E4E4}
+.vehtab_off:hover{background:#E4E4E4}
